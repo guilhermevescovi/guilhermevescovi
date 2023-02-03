@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gui</h1>
 <h3 align="center">A Brazilian developer working in Oslo</h3>
 
-- 🌱 I’m currently learning **React.js**
-
 - 👯 I’m looking to collaborate on **Open source cool stuff**
+
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Magic the Gathering and League of Legends**
 
