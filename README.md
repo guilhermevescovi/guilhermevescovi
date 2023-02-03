@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Magic the Gathering and League of Legends**
 
-- ⚡ Fun fact **If you replace "w" for "t" you can answer the questions When? Where? What?**
+- ⚡ Fun fact **I have already started writing five fantasy novels but never finished**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
