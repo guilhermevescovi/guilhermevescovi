@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Magic the Gathering and League of Legends**
+- 💬 Ask me about **Magic the Gathering and Brazilian competitive League of Legends scenario**
 
-- ⚡ Fun fact **I have already started writing five fantasy novels but never finished**
+- ⚡ Fun fact **I have already started writing some fantasy novels but never finished**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
