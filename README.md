@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gui</h1>
-<h3 align="center">A Brazilian developer working in Oslo</h3>
+<h3 align="center">A developer working in Oslo</h3>
 
 - 👯 I’m looking to collaborate on **Open source cool stuff**
 
