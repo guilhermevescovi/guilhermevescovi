@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Open source cool stuff**
 
-- 🌱 I’m currently learning **React.js** and experimenting with scss animations at <a href="https://guilhermevescovi.github.io/">guilhermevescovi.github.io</a>
+- 🌱 I’m currently experimenting with scss animations at <a href="https://guilhermevescovi.github.io/">guilhermevescovi.github.io</a>
 
 - 💬 Ask me about **Magic the Gathering and Brazilian competitive League of Legends scenario**
 
